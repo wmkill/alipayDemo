@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\projects\\lesson\\alipayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_external.xml",
+        "source": "F:\\projects\\lesson\\alipayDemo\\app\\src\\main\\res\\layout\\pay_external.xml"
+    },
+    {
+        "merged": "F:\\projects\\lesson\\alipayDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pay_main.xml",
+        "source": "F:\\projects\\lesson\\alipayDemo\\app\\src\\main\\res\\layout\\pay_main.xml"
+    }
+]
